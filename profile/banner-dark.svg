@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-labelledby="title">
+  <title id="title">owe</title>
+  <rect x=".5" y=".5" width="879" height="219" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="118" fill="#F0F6FC" font-size="68" font-weight="700" letter-spacing="-2">owe</text>
+    <text x="43" y="160" fill="#9AA4B2" font-size="22">owe.com.br</text>
+  </g>
+  
+      <g fill="none" stroke="#F2C14E" stroke-width="3">
+        <path d="M655 54H725Q746 54 746 75V139Q746 160 767 160H829"/>
+        <path d="M655 110H829M655 166H696Q717 166 717 145V81Q717 60 738 60H829"/>
+      </g>
+      <g fill="#F2C14E">
+        <circle cx="655" cy="54" r="7"/><circle cx="655" cy="110" r="7"/>
+        <circle cx="655" cy="166" r="7"/><circle cx="829" cy="60" r="7"/>
+        <circle cx="829" cy="110" r="7"/><circle cx="829" cy="160" r="7"/>
+      </g>
+</svg>
